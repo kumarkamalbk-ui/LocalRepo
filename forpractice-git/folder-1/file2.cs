@@ -5,10 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace forpractice_git.NewFolder
-    //ho
 {
     internal class file2
     {
-        Console.WriteLine("Add in branch 2");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World from branch 2");
+        }
     }
 }
