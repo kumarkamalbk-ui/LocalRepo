@@ -1,0 +1,15 @@
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\bin\Debug\net9.0\forpractice-git.exe
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\bin\Debug\net9.0\forpractice-git.deps.json
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\bin\Debug\net9.0\forpractice-git.runtimeconfig.json
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\bin\Debug\net9.0\forpractice-git.dll
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\bin\Debug\net9.0\forpractice-git.pdb
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\forpractice-git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\forpractice-git.AssemblyInfoInputs.cache
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\forpractice-git.AssemblyInfo.cs
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\forpractice-git.csproj.CoreCompileInputs.cache
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\forpractice-git.sourcelink.json
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\forpractice-git.dll
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\refint\forpractice-git.dll
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\forpractice-git.pdb
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\forpractice-git.genruntimeconfig.cache
+C:\Users\kumar\source\repos\forpractice-git\forpractice-git\obj\Debug\net9.0\ref\forpractice-git.dll
