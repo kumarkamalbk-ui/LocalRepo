@@ -8,5 +8,9 @@ namespace forpractice_git.folder2
 {
     internal class Class
     {
+        public void ShowMessage()
+        {
+            Console.WriteLine("This is Class inside folder2");
+        }
     }
 }

@@ -1,12 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace forpractice_git.folder2
+namespace ForPracticeGit.Folder1
 {
-    internal class branch_2
+    internal class FileForBranch1
     {
+        public void ShowMessage()
+        {
+            Console.WriteLine("Hello from FileForBranch1 class!");
+        }
     }
 }
